@@ -119,5 +119,14 @@ python explain.py \
 
 If you find this library useful in your research or project, please consider citing:
 ```
-...
+@INPROCEEDINGS{11223370,
+  author={Ribeiro, Victor N. and Lima, Fernando G. and Michelassi, Rodrigo de C. and Rabelo, Carlos A. M. and Hirata, Nina S. T.},
+  booktitle={2025 38th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)}, 
+  title={A Comparative Study on Few-Shot Learning for Retinal Disease Classification}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Metalearning;Training;Analytical models;Computational modeling;Retina;Transformers;Libraries;Reproducibility of results;Few shot learning;Diseases},
+  doi={10.1109/SIBGRAPI67909.2025.11223370}}
 ```
